@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Brushes/RNSVGSolidColorBrush.m \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Brushes/RNSVGSolidColorBrush.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Brushes/RNSVGBrush.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGPercentageConverter.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGCGFloatArray.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGCGFCRule.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGTextAnchor.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h \
+  /Users/daniel/Downloads/rnsvg-bug/eject/node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h
